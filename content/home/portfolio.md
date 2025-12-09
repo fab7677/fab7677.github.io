@@ -28,11 +28,11 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
+    - name: Spatial data analysis
       tag: ML
-    - name: Computer Vision
+    - name: Webmapping
       tag: CV
-    - name: NLP
+    - name: Spatial data management
       tag: NLP
 
 design:
