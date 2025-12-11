@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: CEO
     company: Département de la Loire
-    company_url: ''
+    company_url: 'https://www.loire.fr/jcms/lw_1299656/fr/accueil'
     company_logo: org-cd
     location: California
     date_start: '2021-01-01'
@@ -38,7 +38,7 @@ experience:
 
   - title: Professor of Semiconductor Physics
     company: Chambre d'Agriculture de l'Aude
-    company_url: ''
+    company_url: 'https://aude.chambres-agriculture.fr/'
     company_logo: org-ca
     location: California
     date_start: '2016-01-01'
