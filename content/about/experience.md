@@ -22,7 +22,7 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
+  - title: GIS Project Manager
     company: Département de la Loire
     company_url: 'https://www.loire.fr/jcms/lw_1299656/fr/accueil'
     company_logo: org-cd
@@ -36,7 +36,7 @@ experience:
         * Modelling
         * Deploying
 
-  - title: Professor of Semiconductor Physics
+  - title: GIS Technician
     company: Chambre d'Agriculture de l'Aude
     company_url: 'https://aude.chambres-agriculture.fr/'
     company_logo: org-ca
